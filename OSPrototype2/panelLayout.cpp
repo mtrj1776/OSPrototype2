@@ -173,57 +173,57 @@ panelLayout::panelLayout(wxWindow* parent, wxWindowID id, const wxPoint& pos, co
 	fgSizerNodeImages->SetFlexibleDirection(wxBOTH);
 	fgSizerNodeImages->SetNonFlexibleGrowMode(wxFLEX_GROWMODE_SPECIFIED);
 
-	m_bitmap1 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\Users\Michael Johns/Downloads/placeholder-1320568685473343206.png"), wxBITMAP_TYPE_ANY), wxDefaultPosition, wxDefaultSize, 0);
+	m_bitmap1 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\\root\\placeholder-6.png"), wxBITMAP_TYPE_PNG), wxDefaultPosition, wxDefaultSize, 0);
 	m_bitmap1->SetMaxSize(wxSize(128, 128));
 
 	fgSizerNodeImages->Add(m_bitmap1, 1, wxALL, 10);
 
-	m_bitmap11 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\Users\Michael Johns/Downloads/placeholder-1320568685473343206.png"), wxBITMAP_TYPE_ANY), wxDefaultPosition, wxDefaultSize, 0);
+	m_bitmap11 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\\root\\placeholder-6.png"), wxBITMAP_TYPE_PNG), wxDefaultPosition, wxDefaultSize, 0);
 	m_bitmap11->SetMaxSize(wxSize(128, 128));
 
 	fgSizerNodeImages->Add(m_bitmap11, 0, wxALL, 5);
 
-	m_bitmap12 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("../Downloads/placeholder-1320568685473343206.png"), wxBITMAP_TYPE_ANY), wxDefaultPosition, wxDefaultSize, 0);
+	m_bitmap12 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\\root\\placeholder-6.png"), wxBITMAP_TYPE_PNG), wxDefaultPosition, wxDefaultSize, 0);
 	m_bitmap12->SetMaxSize(wxSize(128, 128));
 
 	fgSizerNodeImages->Add(m_bitmap12, 0, wxALL, 5);
 
-	m_bitmap13 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("../Downloads/placeholder-1320568685473343206.png"), wxBITMAP_TYPE_ANY), wxDefaultPosition, wxDefaultSize, 0);
+	m_bitmap13 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\\root\\placeholder-6.png"), wxBITMAP_TYPE_PNG), wxDefaultPosition, wxDefaultSize, 0);
 	m_bitmap13->SetMaxSize(wxSize(128, 128));
 
 	fgSizerNodeImages->Add(m_bitmap13, 0, wxALL, 5);
 
-	m_bitmap14 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("../Downloads/placeholder-1320568685473343206.png"), wxBITMAP_TYPE_ANY), wxDefaultPosition, wxDefaultSize, 0);
+	m_bitmap14 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\\root\\placeholder-6.png"), wxBITMAP_TYPE_PNG), wxDefaultPosition, wxDefaultSize, 0);
 	m_bitmap14->SetMaxSize(wxSize(128, 128));
 
 	fgSizerNodeImages->Add(m_bitmap14, 0, wxALL, 5);
 
-	m_bitmap15 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("../Downloads/placeholder-1320568685473343206.png"), wxBITMAP_TYPE_ANY), wxDefaultPosition, wxDefaultSize, 0);
+	m_bitmap15 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\\root\\placeholder-6.png"), wxBITMAP_TYPE_PNG), wxDefaultPosition, wxDefaultSize, 0);
 	m_bitmap15->SetMaxSize(wxSize(128, 128));
 
 	fgSizerNodeImages->Add(m_bitmap15, 0, wxALL, 5);
 
-	m_bitmap16 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("../Downloads/placeholder-1320568685473343206.png"), wxBITMAP_TYPE_ANY), wxDefaultPosition, wxDefaultSize, 0);
+	m_bitmap16 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\\root\\placeholder-6.png"), wxBITMAP_TYPE_PNG), wxDefaultPosition, wxDefaultSize, 0);
 	m_bitmap16->SetMaxSize(wxSize(128, 128));
 
 	fgSizerNodeImages->Add(m_bitmap16, 0, wxALL, 5);
 
-	m_bitmap17 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("../Downloads/placeholder-1320568685473343206.png"), wxBITMAP_TYPE_ANY), wxDefaultPosition, wxDefaultSize, 0);
+	m_bitmap17 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\\root\\placeholder-6.png"), wxBITMAP_TYPE_PNG), wxDefaultPosition, wxDefaultSize, 0);
 	m_bitmap17->SetMaxSize(wxSize(128, 128));
 
 	fgSizerNodeImages->Add(m_bitmap17, 0, wxALL, 5);
 
-	m_bitmap18 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("../Downloads/placeholder-1320568685473343206.png"), wxBITMAP_TYPE_ANY), wxDefaultPosition, wxDefaultSize, 0);
+	m_bitmap18 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\\root\\placeholder-6.png"), wxBITMAP_TYPE_PNG), wxDefaultPosition, wxDefaultSize, 0);
 	m_bitmap18->SetMaxSize(wxSize(128, 128));
 
 	fgSizerNodeImages->Add(m_bitmap18, 0, wxALL, 5);
 
-	m_bitmap19 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("../Downloads/placeholder-1320568685473343206.png"), wxBITMAP_TYPE_ANY), wxDefaultPosition, wxDefaultSize, 0);
+	m_bitmap19 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\\root\\placeholder-6.png"), wxBITMAP_TYPE_PNG), wxDefaultPosition, wxDefaultSize, 0);
 	m_bitmap19->SetMaxSize(wxSize(128, 128));
 
 	fgSizerNodeImages->Add(m_bitmap19, 0, wxALL, 5);
 
-	m_bitmap110 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("../Downloads/placeholder-1320568685473343206.png"), wxBITMAP_TYPE_ANY), wxDefaultPosition, wxDefaultSize, 0);
+	m_bitmap110 = new wxStaticBitmap(m_panelNodeImage, wxID_ANY, wxBitmap(wxT("C:\\root\\placeholder-6.png"), wxBITMAP_TYPE_PNG), wxDefaultPosition, wxDefaultSize, 0);
 	m_bitmap110->SetMaxSize(wxSize(128, 128));
 
 	fgSizerNodeImages->Add(m_bitmap110, 0, wxALL, 5);
